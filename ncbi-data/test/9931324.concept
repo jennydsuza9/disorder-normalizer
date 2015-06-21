@@ -1,0 +1,13 @@
+9931324||103|131||DiseaseClass||congenital eye malformations||D005124
+9931324||175|183||SpecificDisease||aniridia||D015783
+9931324||185|215||SpecificDisease||congenital absence of the iris||D015783
+9931324||234|257||DiseaseClass||malformation of the eye||D005124
+9931324||293|301||Modifier||aniridia||D015783
+9931324||742|750||Modifier||aniridia||D015783
+9931324||976|984||SpecificDisease||aniridia||D015783
+9931324||1083|1099||SpecificDisease||ectopia pupillae||C536185
+9931324||1101|1117||SpecificDisease||displaced pupils||C536185
+9931324||1123|1143||SpecificDisease||congenital nystagmus||D020417
+9931324||1145|1159||SpecificDisease||searching gaze||D020417
+9931324||1208|1216||Modifier||aniridia||D015783
+9931324||1549|1570||DiseaseClass||PAX6 -related disease||OMIM:106210

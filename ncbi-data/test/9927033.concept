@@ -1,0 +1,10 @@
+9927033||37|61||DiseaseClass||hematological malignancy||D019337
+9927033||66|90||SpecificDisease||neurofibromatosis type 1||D009456
+9927033||166|207||SpecificDisease||hereditary nonpolyposis colorectal cancer||D003123
+9927033||352|393||Modifier||hereditary nonpolyposis colorectal cancer||D003123
+9927033||415|439||DiseaseClass||hematological malignancy||D019337
+9927033||505|529||SpecificDisease||neurofibromatosis type 1||D009456
+9927033||531|534||SpecificDisease||NF1||D009456
+9927033||802|810||DiseaseClass||leukemia||D007938
+9927033||818|826||DiseaseClass||lymphoma||D008223
+9927033||843|867||SpecificDisease||neurofibromatosis type 1||D009456

@@ -1,0 +1,23 @@
+9585611||35|72||SpecificDisease||attenuated adenomatous polyposis coli||C538265
+9585611||101|106||Modifier||tumor||D009369
+9585611||140|177||SpecificDisease||attenuated adenomatous polyposis coli||C538265
+9585611||179|183||SpecificDisease||AAPC||C538265
+9585611||199|229||SpecificDisease||familial adenomatous polyposis||D011125
+9585611||231|234||SpecificDisease||FAP||D011125
+9585611||237|241||SpecificDisease||AAPC||C538265
+9585611||283|299||SpecificDisease||colonic adenomas||D018256
+9585611||321|338||SpecificDisease||colorectal cancer||D015179
+9585611||428|432||Modifier||AAPC||C538265
+9585611||515|518||Modifier||APC||D011125
+9585611||569|573||Modifier||AAPC||C538265
+9585611||653|656||Modifier||APC||D011125
+9585611||759|762||Modifier||APC||D011125
+9585611||899|918||SpecificDisease||colorectal adenomas||D018256
+9585611||1132|1140||DiseaseClass||adenomas||D000236
+9585611||1260|1264||Modifier||AAPC||C538265
+9585611||1305|1324||SpecificDisease||colorectal adenomas||D018256
+9585611||1329|1341||Modifier||rectal polyp||D011127
+9585611||1367|1381||SpecificDisease||desmoid tumors||D018222
+9585611||1438|1442||Modifier||AAPC||C538265
+9585611||1473|1476||Modifier||APC||D011125
+9585611||1631|1634||Modifier||FAP||D011125

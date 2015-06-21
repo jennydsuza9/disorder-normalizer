@@ -1,0 +1,11 @@
+9988281||56|87||SpecificDisease||non-inherited breast carcinomas||D001943
+9988281||125|131||Modifier||tumour||D009369
+9988281||152|188||CompositeMention||hereditary breast and ovarian cancer||D061325
+9988281||235|255||DiseaseClass||non-familial cancers||D009369
+9988281||296|312||DiseaseClass||sporadic cancers||D009369
+9988281||437|476||CompositeMention||non-familial breast and ovarian cancers||D001943|D010051
+9988281||996|1015||SpecificDisease||breast malignancies||D001943
+9988281||1123|1147||DiseaseClass||invasive lobular cancers||D018275
+9988281||1152|1179||SpecificDisease||low-grade ductal carcinomas||D044584
+9988281||1269|1286||SpecificDisease||ductal carcinomas||D044584
+9988281||1387|1410||SpecificDisease||sporadic breast cancers||D001943

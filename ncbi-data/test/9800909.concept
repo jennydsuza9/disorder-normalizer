@@ -1,0 +1,12 @@
+9800909||56|76||DiseaseClass||cognitive impairment||D003072
+9800909||80|107||SpecificDisease||Duchenne muscular dystrophy||D020388
+9800909||205|232||SpecificDisease||Duchenne muscular dystrophy||D020388
+9800909||234|237||SpecificDisease||DMD||D020388
+9800909||288|308||DiseaseClass||cognitive impairment||D003072
+9800909||326|329||Modifier||DMD||D020388
+9800909||481|484||Modifier||DMD||D020388
+9800909||912|932||DiseaseClass||cognitive impairment||D003072
+9800909||1039|1059||DiseaseClass||cerebral dysfunction||D001927
+9800909||1168|1171||Modifier||DMD||D020388
+9800909||1226|1246||DiseaseClass||cognitive impairment||D003072
+9800909||1263|1266||SpecificDisease||DMD||D020388

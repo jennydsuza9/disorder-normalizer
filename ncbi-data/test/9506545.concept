@@ -1,0 +1,21 @@
+9506545||0|26||DiseaseClass||Eye movement abnormalities||D005124
+9506545||73|97||DiseaseClass||cerebellar ataxia type I||D020754
+9506545||278|303||DiseaseClass||cerebellar ataxias type I||D020754
+9506545||304|335||CompositeMention||spinocerebellar ataxias 1 and 2||OMIM:164400|OMIM:183090
+9506545||337|341||SpecificDisease||SCA1||OMIM:164400
+9506545||351|355||SpecificDisease||SCA2||OMIM:183090
+9506545||369|373||SpecificDisease||SCA3||D017827
+9506545||374|396||SpecificDisease||Machado-Joseph disease||D017827
+9506545||398|401||SpecificDisease||MJD||D017827
+9506545||416|420||SpecificDisease||SCA1||OMIM:164400
+9506545||482|493||SpecificDisease||hypermetria||D002524
+9506545||537|541||SpecificDisease||SCA2||OMIM:183090
+9506545||816|820||SpecificDisease||SCA3||D017827
+9506545||822|843||SpecificDisease||gaze-evoked nystagmus||D009759
+9506545||1011|1032||SpecificDisease||gaze-evoked nystagmus||D009759
+9506545||1081|1085||SpecificDisease||SCA1||OMIM:164400
+9506545||1098|1102||SpecificDisease||SCA2||OMIM:183090
+9506545||1133|1137||SpecificDisease||SCA3||D017827
+9506545||1228|1232||SpecificDisease||SCA1||OMIM:164400
+9506545||1234|1238||SpecificDisease||SCA2||OMIM:183090
+9506545||1244|1248||SpecificDisease||SCA3||D017827

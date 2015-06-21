@@ -1,0 +1,29 @@
+9288106||40|61||Modifier||ataxia-telangiectasia||D001260
+9288106||72|97||SpecificDisease||sporadic T-cell leukaemia||D015458
+9288106||99|120||SpecificDisease||Ataxia-telangiectasia||D001260
+9288106||122|125||SpecificDisease||A-T||D001260
+9288106||132|163||DiseaseClass||recessive multi-system disorder||D030342
+9288106||235|241||DiseaseClass||cancer||D009369
+9288106||254|273||DiseaseClass||lymphoid neoplasias||D008223
+9288106||304|307||Modifier||A-T||D001260
+9288106||389|395||Modifier||tumour||D009369
+9288106||419|459||SpecificDisease||sporadic T-cell prolymphocytic leukaemia||D015461
+9288106||461|466||SpecificDisease||T-PLL||D015461
+9288106||476|493||DiseaseClass||clonal malignancy|| D007945
+9288106||517|540||SpecificDisease||mature T-cell leukaemia||D015458
+9288106||549|552||SpecificDisease||A-T||D001260
+9288106||606|611||SpecificDisease||T-PLL||D015461
+9288106||663|666||SpecificDisease||A-T||D001260
+9288106||713|722||DiseaseClass||leukaemia||D007938
+9288106||1030|1035||SpecificDisease||T-PLL||D015461
+9288106||1070|1073||Modifier||A-T||D001260
+9288106||1160|1166||Modifier||tumour||D009369
+9288106||1212|1221||DiseaseClass||leukaemia||D007938
+9288106||1279|1285||Modifier||tumour||D009369
+9288106||1309|1338||SpecificDisease||B-cell non-Hodgkins lymphomas||D016393
+9288106||1340|1345||SpecificDisease||B-NHL||D016393
+9288106||1353|1358||Modifier||B-NHL||D016393
+9288106||1517|1524||DiseaseClass||tumours||D009369
+9288106||1594|1608||SpecificDisease||sporadic T-PLL||D015461
+9288106||1641|1647||Modifier||tumour||D009369
+9288106||1741|1746||SpecificDisease||T-PLL||D015461

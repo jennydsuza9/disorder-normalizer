@@ -1,0 +1,12 @@
+9731533||25|31||Modifier||cancer||D009369
+9731533||132|162||SpecificDisease||familial adenomatous polyposis||D011125
+9731533||164|167||SpecificDisease||FAP||D011125
+9731533||189|216||DiseaseClass||autosomal dominant disorder||D030342
+9731533||254|260||DiseaseClass||polyps||D011127
+9731533||316|333||SpecificDisease||colorectal cancer||D015179
+9731533||335|338||SpecificDisease||CRC||D015179
+9731533||341|344||SpecificDisease||APC||D011125
+9731533||401|408||DiseaseClass||tumours||D009369
+9731533||741|744||SpecificDisease||CRC||D015179
+9731533||789|795||DiseaseClass||cancer||D009369
+9731533||880|916||CompositeMention||colorectal, breast and other cancers||D001943|D015179|D009369

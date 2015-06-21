@@ -1,0 +1,25 @@
+9724771||4|7||Modifier||APC||D011125
+9724771||55|72||DiseaseClass||colorectal tumors||D015179
+9724771||122|152||SpecificDisease||familial adenomatous polyposis||D011125
+9724771||154|157||SpecificDisease||FAP||D011125
+9724771||180|206||DiseaseClass||autosomal dominant disease||D030342
+9724771||252|285||CompositeMention||colorectal adenomas and carcinoma||D018256|D015179
+9724771||336|339||Modifier||APC||D011125
+9724771||359|362||SpecificDisease||FAP||D011125
+9724771||366|403||SpecificDisease||attenuated adenomatous polyposis coli||C538265
+9724771||474|477||Modifier||APC||D011125
+9724771||484|521||Modifier||Attenuated adenomatous polyposis coli||C538265
+9724771||549|568||SpecificDisease||colorectal adenomas||D000236
+9724771||638|641||SpecificDisease||FAP||D011125
+9724771||683|691||DiseaseClass||adenomas||D000236
+9724771||716|719||Modifier||APC||D011125
+9724771||865|868||SpecificDisease||APC||D011125
+9724771||926|943||SpecificDisease||colorectal tumors||D015179
+9724771||964|972||DiseaseClass||adenomas||D000236
+9724771||1041|1077||CompositeMention||colorectal adenomas and/or carcinoma||D018256|D015179
+9724771||1126|1129||Modifier||APC||D011125
+9724771||1392|1428||SpecificDisease||metaplastic polyps of the colorectum||D003111
+9724771||1502|1505||Modifier||APC||D011125
+9724771||1558|1591||CompositeMention||colorectal adenomas and carcinoma||D018256|D015179
+9724771||1639|1642||SpecificDisease||FAP||D011125
+9724771||1677|1694||SpecificDisease||colorectal cancer||D015179

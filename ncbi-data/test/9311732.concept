@@ -1,0 +1,15 @@
+9311732||60|85||SpecificDisease||unilateral retinoblastoma||D012175
+9311732||118|143||SpecificDisease||unilateral retinoblastoma||D012175
+9311732||145|150||Modifier||tumor||D009369
+9311732||278|292||Modifier||retinoblastoma||D012175
+9311732||429|454||SpecificDisease||unilateral retinoblastoma||D012175
+9311732||503|508||Modifier||tumor||D009369
+9311732||533|539||DiseaseClass||tumors||D009369
+9311732||742|748||DiseaseClass||tumors||D009369
+9311732||894|900||DiseaseClass||tumors||D009369
+9311732||928|934||DiseaseClass||tumors||D009369
+9311732||997|1003||DiseaseClass||tumors||D009369
+9311732||1093|1099||DiseaseClass||tumors||D009369
+9311732||1792|1798||DiseaseClass||tumors||D009369
+9311732||1829|1853||SpecificDisease||bilateral retinoblastoma||D012175
+9311732||1939|1953||SpecificDisease||retinoblastoma||D012175

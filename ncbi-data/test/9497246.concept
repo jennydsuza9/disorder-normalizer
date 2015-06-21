@@ -1,0 +1,12 @@
+9497246||78|91||Modifier||breast cancer||D001943
+9497246||106|119||Modifier||Breast Cancer||D001943
+9497246||179|202||SpecificDisease||inherited breast cancer||D001943
+9497246||299|312||SpecificDisease||breast cancer||D001943
+9497246||331|344||Modifier||Breast Cancer||D001943
+9497246||424|448||CompositeMention||ovarian or other cancers||D010051|D009369
+9497246||681|702||Modifier||breast-ovarian cancer||D061325
+9497246||810|839||CompositeMention||male and female breast cancer||D018567|D001943
+9497246||981|994||SpecificDisease||breast cancer||D001943
+9497246||1616|1629||SpecificDisease||breast cancer||D001943
+9497246||1736|1750||Modifier||ovarian cancer||D010051
+9497246||1863|1876||SpecificDisease||breast cancer||D001943

@@ -1,0 +1,16 @@
+9585583||25|49||SpecificDisease||Saethre-Chotzen syndrome||OMIM:101400
+9585583||131|155||SpecificDisease||Saethre-Chotzen syndrome||OMIM:101400
+9585583||166|194||DiseaseClass||autosomal dominant condition||D030342
+9585583||198|214||SpecificDisease||craniosynostosis||D003398
+9585583||219|233||DiseaseClass||limb anomalies||D017880
+9585583||561|585||Modifier||Saethre-Chotzen syndrome||OMIM:101400
+9585583||845|863||SpecificDisease||coronal synostosis||D003398
+9585583||865|878||SpecificDisease||brachycephaly||D003398
+9585583||880|900||SpecificDisease||low frontal hairline||D019465
+9585583||902|918||SpecificDisease||facial asymmetry||D005146
+9585583||920|926||SpecificDisease||ptosis||D001763
+9585583||928|941||SpecificDisease||hypertelorism||D006972
+9585583||943|959||SpecificDisease||broad great toes||D005532
+9585583||965|977||SpecificDisease||clinodactyly||C536852
+9585583||1197|1223||DiseaseClass||craniosynostotic condition||D003398
+9585583||1232|1280||CompositeMention||Saethre-Chotzen, Crouzon, and Pfeiffer syndromes||OMIM:101400|OMIM:123500|OMIM:101600

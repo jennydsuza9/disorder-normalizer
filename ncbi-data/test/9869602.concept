@@ -1,0 +1,14 @@
+9869602||25|28||Modifier||APC||D011125
+9869602||98|115||SpecificDisease||colorectal cancer||D015179
+9869602||204|221||Modifier||colorectal cancer||D015179
+9869602||272|275||Modifier||APC||D011125
+9869602||348|365||Modifier||colorectal cancer||D015179
+9869602||484|501||SpecificDisease||colorectal cancer||D015179
+9869602||636|645||DiseaseClass||neoplasia||D009369
+9869602||777|794||SpecificDisease||colorectal cancer||D015179
+9869602||947|953||DiseaseClass||cancer||D009369
+9869602||1024|1030||Modifier||cancer||D009369
+9869602||1037|1057||SpecificDisease||Colorectal neoplasia||D015179
+9869602||1198|1207||DiseaseClass||neoplasia||D009369
+9869602||1285|1314||CompositeMention||colorectal, or other, cancers||D009369|D015179
+9869602||1381|1398||SpecificDisease||colorectal cancer||D015179
