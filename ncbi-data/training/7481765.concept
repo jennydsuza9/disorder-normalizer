@@ -1,0 +1,6 @@
+7481765||46|59||SpecificDisease||breast cancer||D001943
+7481765||217|222||Modifier||tumor||D009369
+7481765||296|321||Modifier||breast and ovarian cancer||D001943|D010051
+7481765||561|574||Modifier||breast cancer||D001943
+7481765||613|632||DiseaseClass||BRCA1 abnormalities||OMIM:604370
+7481765||677|691||SpecificDisease||breast cancers||D001943

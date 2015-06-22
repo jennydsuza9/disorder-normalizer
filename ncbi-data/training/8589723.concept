@@ -1,0 +1,11 @@
+8589723||0|14||Modifier||Ovarian cancer||D010051
+8589723||198|211||SpecificDisease||breast cancer||D001943
+8589723||230|244||SpecificDisease||ovarian cancer||D010051
+8589723||595|601||Modifier||cancer||D009369
+8589723||703|710||DiseaseClass||cancers||D009369
+8589723||722|735||SpecificDisease||breast cancer||D001943
+8589723||829|865||CompositeMention||hereditary breast and ovarian cancer||D061325
+8589723||974|988||SpecificDisease||ovarian cancer||D010051
+8589723||1271|1296||SpecificDisease||hereditary ovarian cancer||D061325
+8589723||1320|1333||SpecificDisease||breast cancer||D001943
+8589723||1490|1515||DiseaseClass||inherited cancer syndrome||D009386

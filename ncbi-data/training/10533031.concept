@@ -1,0 +1,16 @@
+10533031||30|47||SpecificDisease||Friedreich ataxia||D005621
+10533031||77|94||SpecificDisease||Friedreich ataxia||D005621
+10533031||101|129||DiseaseClass||autosomal recessive disorder||D030342
+10533031||157|161||Modifier||FRDA||D005621
+10533031||779|788||DiseaseClass||scoliosis||D012600
+10533031||836|850||DiseaseClass||foot deformity||D005530
+10533031||932|946||SpecificDisease||cardiomyopathy||D009202
+10533031||948|965||SpecificDisease||diabetes mellitus||D003920
+10533031||967|989||DiseaseClass||loss of proprioception||D020886
+10533031||994|1010||DiseaseClass||bladder symptoms||D001745
+10533031||1051|1067||DiseaseClass||bladder symptoms||D001745
+10533031||1088|1102||DiseaseClass||foot deformity||D005530
+10533031||1182|1190||DiseaseClass||diabetes||D003920
+10533031||1192|1201||DiseaseClass||scoliosis||D012600
+10533031||1203|1219||DiseaseClass||bladder symptoms||D001745
+10533031||1224|1247||DiseaseClass||impaired proprioception||D020886

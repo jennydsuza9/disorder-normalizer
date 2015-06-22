@@ -1,0 +1,19 @@
+10581027||61|80||SpecificDisease||periodontal disease||D010510
+10581027||85|107||DiseaseClass||palmoplantar keratosis||D007645
+10581027||109|134||SpecificDisease||Papillon-Lefevre syndrome||D010214
+10581027||139|163||DiseaseClass||keratosis palmoplantaris||D007645
+10581027||169|185||SpecificDisease||periodontopathia||D010510
+10581027||187|190||SpecificDisease||PLS||D010214
+10581027||211|239||DiseaseClass||autosomal recessive disorder||D030342
+10581027||301|314||SpecificDisease||periodontitis||D010518
+10581027||420|430||SpecificDisease||tooth loss||D016388
+10581027||432|454||DiseaseClass||Palmoplantar keratosis||D007645
+10581027||507|521||SpecificDisease||hyperkeratosis||D017488
+10581027||580|589||SpecificDisease||Keratosis||D007642
+10581027||646|649||Modifier||PLS||D010214
+10581027||672|685||SpecificDisease||periodontitis||D010518
+10581027||690|704||SpecificDisease||hyperkeratosis||D017488
+10581027||730|752||DiseaseClass||palmoplantar keratosis||D007645
+10581027||756|769||SpecificDisease||periodontitis||D010518
+10581027||799|812||SpecificDisease||periodontitis||D010518
+10581027||1386|1389||Modifier||PLS||D010214

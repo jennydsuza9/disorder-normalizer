@@ -1,0 +1,17 @@
+10051005||53|58||Modifier||HNPCC||D003123
+10051005||132|149||SpecificDisease||colorectal cancer||D015179
+10051005||278|318||SpecificDisease||hereditary non-polyposis cancer syndrome||D003123
+10051005||320|325||SpecificDisease||HNPCC||D003123
+10051005||594|611||Modifier||colorectal cancer||D015179
+10051005||729|734||Modifier||HNPCC||D003123
+10051005||840|850||Modifier||colorectal||D015179
+10051005||925|942||Modifier||colorectal cancer||D015179
+10051005||1507|1512||Modifier||HNPCC||D003123
+10051005||1563|1607||CompositeMention||colorectal, endometrial, and ovarian cancers||D010051|D016889|D015179
+10051005||1777|1784||DiseaseClass||cancers||D009369
+10051005||1794|1811||SpecificDisease||colorectal cancer||D015179
+10051005||1860|1877||SpecificDisease||colorectal cancer||D015179
+10051005||2047|2065||SpecificDisease||endometrial cancer||D016889
+10051005||2093|2121||SpecificDisease||premenopausal ovarian cancer||D010051
+10051005||2172|2189||Modifier||colorectal cancer||D015179
+10051005||2268|2285||Modifier||colorectal cancer||D015179

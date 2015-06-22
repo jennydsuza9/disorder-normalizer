@@ -1,0 +1,13 @@
+10716718||75|95||DiseaseClass||Motor incoordination||D002524
+10716718||97|116||DiseaseClass||immune deficiencies||D007154
+10716718||143|149||DiseaseClass||cancer||D009369
+10716718||189|207||DiseaseClass||hereditary disease||D030342
+10716718||208|229||SpecificDisease||ataxia-telangiectasia||D001260
+10716718||231|234||SpecificDisease||A-T||D001260
+10716718||447|462||SpecificDisease||thymic lymphoma||D013953
+10716718||567|589||DiseaseClass||cerebellar dysfunction||D002526
+10716718||621|644||DiseaseClass||cerebellar degeneration||D013132
+10716718||803|834||DiseaseClass||neuropathological abnormalities||D009422
+10716718||843|846||Modifier||A-T||D001260
+10716718||952|966||SpecificDisease||Atm deficiency||OMIM:208900
+10716718||1180|1183||SpecificDisease||A-T||D001260

@@ -1,0 +1,8 @@
+7550349||163|186||SpecificDisease||inherited breast cancer||D061325
+7550349||285|310||CompositeMention||breast and ovarian cancer||D061325
+7550349||403|416||SpecificDisease||breast cancer||D001943
+7550349||439|453||SpecificDisease||ovarian cancer||D010051
+7550349||513|537||CompositeMention||breast or ovarian cancer||D010051|D001943
+7550349||645|651||DiseaseClass||cancer||D009369
+7550349||943|949||DiseaseClass||cancer||D009369
+7550349||1260|1288||CompositeMention||breast and/or ovarian cancer||D010051|D001943

@@ -1,0 +1,11 @@
+2884570||39|54||SpecificDisease||phenylketonuria||D010661
+2884570||106|121||SpecificDisease||Phenylketonuria||D010661
+2884570||123|126||SpecificDisease||PKU||D010661
+2884570||134|176||DiseaseClass||autosomal recessive human genetic disorder||D030342
+2884570||189|236||SpecificDisease||deficiency of hepatic phenylalanine hydroxylase||OMIM:261600
+2884570||292|295||SpecificDisease||PKU||D010661
+2884570||308|345||DiseaseClass||inborn error of amino-acid metabolism||D000592
+2884570||427|430||Modifier||PKU||D010661
+2884570||472|475||SpecificDisease||PKU||D010661
+2884570||642|645||Modifier||PKU||D010661
+2884570||888|904||DiseaseClass||molecular lesion||D030342

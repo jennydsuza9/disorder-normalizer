@@ -1,0 +1,15 @@
+7825586||46|67||Modifier||breast-ovarian cancer||D061325
+7825586||78|91||Modifier||Breast Cancer||D001943
+7825586||116|151||SpecificDisease||breast-ovary cancer-family syndrome||D061325
+7825586||184|216||CompositeMention||cancer of the breast and ovaries||D001943|D010051
+7825586||301|320||Modifier||breast-ovary cancer||D061325
+7825586||466|491||CompositeMention||breast and ovarian cancer||D001943|D010051
+7825586||591|604||SpecificDisease||breast cancer||D001943
+7825586||608|622||SpecificDisease||ovarian cancer||D010051
+7825586||668|682||SpecificDisease||ovarian cancer||D010051
+7825586||799|817||SpecificDisease||male breast cancer||D018567
+7825586||924|942||SpecificDisease||male breast cancer||D018567
+7825586||964|979||SpecificDisease||ovarian cancers||D010051
+7825586||1029|1066||SpecificDisease||breast-ovarian cancer-family syndrome||D061325
+7825586||1154|1167||SpecificDisease||breast cancer||D001943
+7825586||1198|1212||SpecificDisease||ovarian cancer||D010051

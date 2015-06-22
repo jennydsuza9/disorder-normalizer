@@ -1,0 +1,12 @@
+1056013||61|82||SpecificDisease||Ataxia-telangiectasia||D001260
+1056013||93|109||DiseaseClass||genetic disorder||D030342
+1056013||126|143||DiseaseClass||immune deficiency||D007153
+1056013||145|167||DiseaseClass||chromosome instability||D043171
+1056013||193|212||SpecificDisease||lymphoid malignancy||D008223
+1056013||685|706||SpecificDisease||ataxia-telangiectasia||D001260
+1056013||934|962||SpecificDisease||chronic lymphocytic leukemia||D015451
+1056013||971|979||DiseaseClass||leukemia||D007938
+1056013||1101|1109||Modifier||leukemic||D007938
+1056013||1275|1296||SpecificDisease||lymphoid malignancies||D008223
+1056013||1392|1409||SpecificDisease||Burkitts lymphoma||D002051
+1056013||1420|1438||DiseaseClass||lymphoid neoplasms||D008223

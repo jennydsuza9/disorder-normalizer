@@ -1,0 +1,11 @@
+10766245||66|79||DiseaseClass||rare diseases||D035583
+10766245||80|101||SpecificDisease||ataxia-telangiectasia||D001260
+10766245||103|105||SpecificDisease||AT||D001260
+10766245||149|175||SpecificDisease||Nijmegen breakage syndrome||D049932
+10766245||177|180||SpecificDisease||NBS||D049932
+10766245||239|263||DiseaseClass||phenotypic abnormalities||D004194
+10766245||272|295||DiseaseClass||chromosomal instability||D043171
+10766245||640|642||SpecificDisease||AT||D001260
+10766245||647|650||SpecificDisease||NBS||D049932
+10766245||814|817||Modifier||NBS||D049932
+10766245||1239|1242||Modifier||NBS||D049932

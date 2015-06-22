@@ -1,0 +1,15 @@
+8929264||33|50||SpecificDisease||colorectal cancer||D015179
+8929264||136|162||SpecificDisease||stage II colorectal cancer||D015179
+8929264||269|286||SpecificDisease||colorectal cancer||D015179
+8929264||370|375||Modifier||tumor||D009369
+8929264||408|428||SpecificDisease||colorectal carcinoma||D015179
+8929264||569|607||CompositeMention||stage II and III colorectal carcinomas||D015179
+8929264||698|703||Modifier||tumor||D009369
+8929264||720|725||Modifier||tumor||D009369
+8929264||864|908||CompositeMention||stage II and stage III colorectal carcinomas||D015179
+8929264||950|956||DiseaseClass||tumors||D009369
+8929264||1044|1063||SpecificDisease||DCC-negative tumors||D009369
+8929264||1132|1149||SpecificDisease||stage III disease||D009369
+8929264||1288|1327||CompositeMention||stage II or stage III colorectal cancer||D015179
+8929264||1332|1362||SpecificDisease||stage II colorectal carcinomas||D015179
+8929264||1447|1464||DiseaseClass||stage III cancers||D009369

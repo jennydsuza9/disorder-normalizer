@@ -1,0 +1,15 @@
+8758207||75|110||SpecificDisease||non-papillary renal cell carcinomas||D002292
+8758207||147|150||Modifier||VHL||D006623
+8758207||178|208||SpecificDisease||sporadic renal cell carcinomas||D002292
+8758207||223|256||DiseaseClass||parenchymal tumours of the kidney||D007674
+8758207||300|303||Modifier||VHL||D006623
+8758207||450|485||SpecificDisease||non-papillary renal cell carcinomas||D002292
+8758207||520|541||SpecificDisease||renal cell carcinomas||D002292
+8758207||559|594||SpecificDisease||non-papillary renal cell carcinomas||D002292
+8758207||725|746||SpecificDisease||renal cell carcinomas||D002292
+8758207||764|792||SpecificDisease||papillary renal cell tumours||D002292
+8758207||801|818||SpecificDisease||renal oncocytomas||C537750
+8758207||941|944||Modifier||VHL||D006623
+8758207||965|972||DiseaseClass||tumours||D009369
+8758207||1051|1054||Modifier||VHL||D006623
+8758207||1110|1144||SpecificDisease||non-papillary renal cell carcinoma||D002292

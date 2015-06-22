@@ -1,0 +1,12 @@
+8968760||0|21||SpecificDisease||Ataxia-telangiectasia||D001260
+8968760||100|128||DiseaseClass||autosomal recessive disorder||D030342
+8968760||129|150||SpecificDisease||ataxia-telangiectasia||D001260
+8968760||152|155||SpecificDisease||A-T||D001260
+8968760||175|198||DiseaseClass||cerebellar degeneration||D013132
+8968760||200|216||DiseaseClass||immunodeficiency||D007153
+8968760||221|242||DiseaseClass||cancer predisposition||D009369
+8968760||244|247||Modifier||A-T||D001260
+8968760||288|300||DiseaseClass||cancer-prone||D009369
+8968760||320|323||Modifier||A-T||D001260
+8968760||563|566||Modifier||A-T||D001260
+8968760||1095|1098||Modifier||A-T||D001260

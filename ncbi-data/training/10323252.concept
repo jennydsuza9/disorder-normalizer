@@ -1,0 +1,18 @@
+10323252||79|121||SpecificDisease||X-linked Emery-Dreifuss muscular dystrophy||D020389
+10323252||123|156||SpecificDisease||Emery-Dreifuss muscular dystrophy||D020389
+10323252||158|162||SpecificDisease||EDMD||D020389
+10323252||170|207||DiseaseClass||X-linked recessive muscular dystrophy||D040181+D009136
+10323252||231|285||CompositeMention||contractures of the elbows, Achilles tendons and spine||D003286
+10323252||306|320||DiseaseClass||muscle wasting||D009133
+10323252||325|333||DiseaseClass||weakness||D018908
+10323252||339|353||SpecificDisease||cardiomyopathy||D009202
+10323252||370|396||SpecificDisease||cardiac conduction defects||OMIM:115080
+10323252||679|683||SpecificDisease||EDMD||D020389
+10323252||793|797||Modifier||EDMD||D020389
+10323252||1190|1194||Modifier||EDMD||D020389
+10323252||1289|1307||SpecificDisease||elbow contractures||D003286
+10323252||1309|1327||SpecificDisease||ankle contractures||D003286
+10323252||1329|1348||SpecificDisease||upper limb weakness||D018908
+10323252||1353|1372||SpecificDisease||lower limb weakness||D018908
+10323252||1425|1444||DiseaseClass||cardiac involvement||D006331
+10323252||1564|1568||SpecificDisease||EDMD||D020389

@@ -1,0 +1,22 @@
+1248000||0|19||DiseaseClass||Malignant neoplasms||D009369
+1248000||53|74||SpecificDisease||ataxia-telangiectasia||D001260
+1248000||76|97||SpecificDisease||Ataxia-telangiectasia||D001260
+1248000||99|102||SpecificDisease||A-T||D001260
+1248000||110|138||DiseaseClass||autosomal recessive syndrome||D030342
+1248000||188|207||DiseaseClass||malignant neoplasms||D009369
+1248000||275|278||SpecificDisease||A-T||D001260
+1248000||441|448||DiseaseClass||cancers||D009369
+1248000||539|542||SpecificDisease||A-T||D001260
+1248000||697|716||DiseaseClass||malignant neoplasms||D009369
+1248000||748|751||SpecificDisease||A-T||D001260
+1248000||841|860||DiseaseClass||malignant neoplasms||D009369
+1248000||947|950||Modifier||A-T||D001260
+1248000||1011|1029||DiseaseClass||malignant neoplasm||D009369
+1248000||1108|1111||Modifier||A-T||D001260
+1248000||1180|1186||DiseaseClass||cancer||D009369
+1248000||1219|1266||CompositeMention||ovarian, gastric, and biliary system carcinomas||D010051|D013274|D001661
+1248000||1274|1282||DiseaseClass||leukemia||D007938
+1248000||1287|1295||DiseaseClass||lymphoma||D008223
+1248000||1319|1322||Modifier||A-T||D001260
+1248000||1339|1348||DiseaseClass||neoplasms||D009369
+1248000||1412|1476||CompositeMention||pancreatic, basal cell, colonic, breast, and cervical carcinomas||D010190|D002280|D015179|D001943|D002583

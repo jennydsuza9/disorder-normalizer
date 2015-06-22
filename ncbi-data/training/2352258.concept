@@ -1,0 +1,22 @@
+2352258||56|81||SpecificDisease||von Hippel-Lindau disease||D006623
+2352258||90|127||SpecificDisease||sporadic cerebellar haemangioblastoma||D018325
+2352258||132|152||SpecificDisease||renal cell carcinoma||D002292
+2352258||195|234||CompositeMention||unilateral and bilateral retinoblastoma||D012175
+2352258||263|281||DiseaseClass||hereditary tumours||D009386
+2352258||314|330||DiseaseClass||sporadic tumours||D009369
+2352258||400|429||SpecificDisease||sporadic renal cell carcinoma||D002292
+2352258||528|548||SpecificDisease||renal cell carcinoma||D002292
+2352258||562|590||SpecificDisease||cerebellar haemangioblastoma||D018325
+2352258||621|652||SpecificDisease||von Hippel-Lindau (VHL) disease||D006623
+2352258||693|722||SpecificDisease||sporadic renal cell carcinoma||D002292
+2352258||744|781||SpecificDisease||sporadic cerebellar haemangioblastoma||D018325
+2352258||812|832||SpecificDisease||renal cell carcinoma||D002292
+2352258||837|865||SpecificDisease||cerebellar haemangioblastoma||D018325
+2352258||869|880||SpecificDisease||VHL disease||D006623
+2352258||964|993||SpecificDisease||sporadic renal cell carcinoma||D002292
+2352258||998|1026||SpecificDisease||cerebellar haemangioblastoma||D018325
+2352258||1102|1105||Modifier||VHL||D006623
+2352258||1138|1144||Modifier||tumour||D009369
+2352258||1162|1199||SpecificDisease||Sporadic cerebellar haemangioblastoma||D018325
+2352258||1209|1229||SpecificDisease||renal cell carcinoma||D002292
+2352258||1296|1299||Modifier||VHL||D006623

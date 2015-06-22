@@ -1,0 +1,25 @@
+10924409||32|35||Modifier||APC||D011125
+10924409||111|152||SpecificDisease||attenuated familial adenomatous polyposis||C538265
+10924409||180|218||Modifier||adenomatous polyposis coli (APC) tumor||D011125
+10924409||245|275||SpecificDisease||familial adenomatous polyposis||D011125
+10924409||277|280||SpecificDisease||FAP||D011125
+10924409||297|300||SpecificDisease||FAP||D011125
+10924409||344|368||SpecificDisease||benign colorectal tumors||D015179
+10924409||385|402||SpecificDisease||colorectal cancer||D015179
+10924409||425|428||Modifier||APC||D011125
+10924409||453|467||Modifier||attenuated FAP||C538265
+10924409||469|473||Modifier||AFAP||C538265
+10924409||518|524||DiseaseClass||tumors||D009369
+10924409||626|629||Modifier||APC||D011125
+10924409||672|676||SpecificDisease||AFAP||C538265
+10924409||721|725||SpecificDisease||AFAP||C538265
+10924409||787|791||SpecificDisease||AFAP||C538265
+10924409||822|825||Modifier||APC||D011125
+10924409||997|1002||Modifier||tumor||D009369
+10924409||1120|1123||Modifier||APC||D011125
+10924409||1165|1182||SpecificDisease||colorectal tumors||D015179
+10924409||1294|1300||DiseaseClass||tumors||D009369
+10924409||1402|1419||SpecificDisease||colorectal tumors||D015179
+10924409||1450|1453||SpecificDisease||FAP||D011125
+10924409||1491|1494||Modifier||APC||D011125
+10924409||1578|1595||SpecificDisease||colorectal tumors||D015179

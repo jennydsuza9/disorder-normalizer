@@ -1,0 +1,23 @@
+10353787||0|41||CompositeMention||Overgrowth of oral mucosa and facial skin||D006965
+10353787||62|84||SpecificDisease||aspartylglucosaminuria||D054880
+10353787||86|108||SpecificDisease||Aspartylglucosaminuria||D054880
+10353787||110|113||SpecificDisease||AGU||D054880
+10353787||120|146||DiseaseClass||lysosomal storage disorder||D016464
+10353787||157|194||SpecificDisease||deficiency of aspartylglucosaminidase||D054880
+10353787||234|252||DiseaseClass||mental retardation||D008607
+10353787||445|448||Modifier||AGU||D054880
+10353787||617|631||DiseaseClass||facial lesions||D013568
+10353787||794|821||SpecificDisease||erythema of the facial skin||D017445
+10353787||882|902||SpecificDisease||facial angiofibromas||D018322
+10353787||904|911||DiseaseClass||tumours||D009369
+10353787||952|970||SpecificDisease||tuberous sclerosis||D014402
+10353787||972|993||SpecificDisease||Oedemic buccal mucosa||D007967
+10353787||995|1005||SpecificDisease||leucoedema||D007967
+10353787||1011|1031||SpecificDisease||gingival overgrowths||D019214
+10353787||1054|1057||Modifier||AGU||D054880
+10353787||1104|1124||SpecificDisease||oral mucosal lesions||D009059
+10353787||1164|1206||CompositeMention||fibroepithelial or epithelial hyperplasias||D017573
+10353787||1327|1330||Modifier||AGU||D054880
+10353787||1340|1355||SpecificDisease||mucosal lesions||D009059
+10353787||1459|1477||SpecificDisease||mucosal overgrowth||D009059
+10353787||1481|1484||Modifier||AGU||D054880

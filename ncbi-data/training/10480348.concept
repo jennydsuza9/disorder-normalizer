@@ -1,0 +1,11 @@
+10480348||0|34||CompositeMention||Duchenne/Becker muscular dystrophy||D020388|C537666
+10480348||178|216||CompositeMention||Duchenne and Becker muscular dystrophy||D020388|C537666
+10480348||218|221||SpecificDisease||DMD||D020388
+10480348||222|225||SpecificDisease||BMD||C537666
+10480348||320|323||SpecificDisease||DMD||D020388
+10480348||671|674||Modifier||DMD||D020388
+10480348||675|678||Modifier||BMD||C537666
+10480348||855|858||Modifier||DMD||D020388
+10480348||859|862||Modifier||BMD||C537666
+10480348||1091|1102||DiseaseClass||DMD defects||D020388
+10480348||1388|1402||Modifier||muscle disease||D009135

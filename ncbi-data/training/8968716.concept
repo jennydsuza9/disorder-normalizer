@@ -1,0 +1,10 @@
+8968716||120|145||CompositeMention||breast and ovarian cancer||D001943|D010051
+8968716||341|347||Modifier||cancer||D009369
+8968716||420|445||Modifier||breast and ovarian cancer||D001943|D010051
+8968716||720|748||Modifier||breast and 79 ovarian cancer||D001943|D010051
+8968716||921|954||CompositeMention||breast, ovarian, or other cancers||D001943|D010051|D009369
+8968716||1038|1044||Modifier||cancer||D009369
+8968716||1094|1100||Modifier||cancer||D009369
+8968716||1324|1337||SpecificDisease||breast cancer||D001943
+8968716||1369|1375||DiseaseClass||cancer||D009369
+8968716||1525|1551||CompositeMention||breast and ovarian cancers||D001943|D010051

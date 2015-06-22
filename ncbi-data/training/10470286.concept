@@ -1,0 +1,16 @@
+10470286||24|42||SpecificDisease||neurofibrosarcomas||D018319
+10470286||129|134||Modifier||tumor||D009369
+10470286||233|245||DiseaseClass||solid tumors||D009369
+10470286||268|283||SpecificDisease||gastric cancers||D013274
+10470286||287|305||SpecificDisease||esophageal cancers||D004938
+10470286||310|337||CompositeMention||bone and soft tissue tumors||D001859|D012983
+10470286||368|386||SpecificDisease||neurofibrosarcomas||D018319
+10470286||414|419||Modifier||tumor||D009369
+10470286||448|466||SpecificDisease||esophageal cancers||D004938
+10470286||470|476||SpecificDisease||glioma||D005910
+10470286||477|490||SpecificDisease||glioblastomas||D005909
+10470286||830|847||Modifier||neurofibrosarcoma||D018319
+10470286||965|982||Modifier||neurofibrosarcoma||D018319
+10470286||1125|1142||Modifier||neurofibrosarcoma||D018319
+10470286||1324|1341||SpecificDisease||neurofibrosarcoma||D018319
+10470286||1449|1466||SpecificDisease||neurofibrosarcoma||D018319

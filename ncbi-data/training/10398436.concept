@@ -1,0 +1,13 @@
+10398436||61|75||SpecificDisease||hepatoblastoma||D018197
+10398436||77|91||SpecificDisease||Hepatoblastoma||D018197
+10398436||102|130||DiseaseClass||malignant tumor of the liver||D008113+D018198
+10398436||254|259||Modifier||tumor||D009369
+10398436||289|315||SpecificDisease||adenomatous polyposis coli||D011125
+10398436||415|424||Modifier||APC tumor||D011125
+10398436||455|469||Modifier||hepatoblastoma||D018197
+10398436||697|702||Modifier||tumor||D009369
+10398436||734|760||SpecificDisease||adenomatous polyposis coli||D011125
+10398436||861|876||SpecificDisease||hepatoblastomas||D018197
+10398436||979|984||Modifier||tumor||D009369
+10398436||1100|1114||SpecificDisease||hepatoblastoma||D018197
+10398436||1220|1225||Modifier||tumor||D009369

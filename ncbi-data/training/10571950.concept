@@ -1,0 +1,17 @@
+10571950||28|31||Modifier||PDS||C536648
+10571950||81|89||SpecificDisease||deafness||D003638
+10571950||93|109||SpecificDisease||Pendred syndrome||C536648
+10571950||111|127||SpecificDisease||Pendred syndrome||C536648
+10571950||133|161||DiseaseClass||recessive inherited disorder||D030342
+10571950||179|221||DiseaseClass||developmental abnormalities of the cochlea||D015834
+10571950||223|249||SpecificDisease||sensorineural hearing loss||D006319
+10571950||255|282||SpecificDisease||diffuse thyroid enlargement||D013959
+10571950||284|290||SpecificDisease||goiter||D006042
+10571950||345|364||SpecificDisease||hereditary deafness||D030342+D003638
+10571950||384|387||SpecificDisease||PDS||C536648
+10571950||536|539||Modifier||PDS||C536648
+10571950||611|619||Modifier||deafness||D003638
+10571950||687|695||SpecificDisease||deafness||D003638
+10571950||765|768||Modifier||PDS||C536648
+10571950||1162|1165||Modifier||PDS||C536648
+10571950||1221|1229||Modifier||deafness||D003638

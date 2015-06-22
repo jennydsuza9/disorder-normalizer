@@ -1,0 +1,9 @@
+9019400||11|16||Modifier||tumor||D009369
+9019400||98|111||SpecificDisease||breast cancer||D001943
+9019400||258|275||DiseaseClass||metastatic tumors||D009362
+9019400||438|443||Modifier||tumor||D009369
+9019400||503|516||SpecificDisease||breast cancer||D001943
+9019400||554|571||SpecificDisease||breast carcinomas||D001943
+9019400||749|756||DiseaseClass||cancers||D009369
+9019400||828|841||Modifier||breast cancer||D001943
+9019400||912|925||SpecificDisease||breast cancer||D001943

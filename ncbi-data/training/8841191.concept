@@ -1,0 +1,9 @@
+8841191||136|159||SpecificDisease||inherited breast cancer||D001943
+8841191||232|245||SpecificDisease||breast cancer||D001943
+8841191||318|340||SpecificDisease||familial breast cancer||D001943
+8841191||352|383||CompositeMention||inherited breast/ovarian cancer||D061325
+8841191||451|474||Modifier||inherited breast cancer||D001943
+8841191||971|984||SpecificDisease||breast cancer||D001943
+8841191||1035|1053||Modifier||male breast cancer||D018567
+8841191||1237|1250||SpecificDisease||breast cancer||D001943
+8841191||1734|1758||SpecificDisease||hereditary breast cancer||D001943

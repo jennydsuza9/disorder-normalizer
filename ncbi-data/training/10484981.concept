@@ -1,0 +1,18 @@
+10484981||71|91||Modifier||Li-Fraumeni syndrome||D016864
+10484981||100|120||SpecificDisease||Li-Fraumeni syndrome||D016864
+10484981||127|154||DiseaseClass||autosomal dominant disorder||D030342
+10484981||197|203||DiseaseClass||cancer||D009369
+10484981||300|307||DiseaseClass||cancers||D009369
+10484981||344|364||SpecificDisease||Li-Fraumeni syndrome||D016864
+10484981||519|525||DiseaseClass||cancer||D009369
+10484981||569|589||SpecificDisease||Li-Fraumeni syndrome||D016864
+10484981||789|794||Modifier||tumor||D009369
+10484981||825|833||SpecificDisease||seminoma||D018239
+10484981||850|865||SpecificDisease||medulloblastoma||D008527
+10484981||1049|1057||SpecificDisease||seminoma||D018239
+10484981||1127|1132||Modifier||tumor||D009369
+10484981||1371|1391||SpecificDisease||Li-Fraumeni syndrome||D016864
+10484981||1598|1606||SpecificDisease||seminoma||D018239
+10484981||1607|1622||SpecificDisease||medulloblastoma||D008527
+10484981||1675|1688||DiseaseClass||tumorogenesis||D002471
+10484981||1753|1758||Modifier||tumor||D009369

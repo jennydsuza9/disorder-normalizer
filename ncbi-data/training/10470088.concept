@@ -1,0 +1,19 @@
+10470088||39|69||SpecificDisease||familial adenomatous polyposis||D011125
+10470088||212|217||Modifier||tumor||D009369
+10470088||319|325||DiseaseClass||tumors||D009369
+10470088||329|332||SpecificDisease||FAP||D011125
+10470088||334|364||SpecificDisease||familial adenomatous polyposis||D011125
+10470088||372|399||SpecificDisease||sporadic colorectal cancers||D015179
+10470088||414|417||Modifier||APC||D011125
+10470088||440|460||Modifier||attenuated polyposis||C538265
+10470088||594|597||Modifier||APC||D011125
+10470088||680|683||Modifier||FAP||D011125
+10470088||707|710||Modifier||APC||D011125
+10470088||808|827||SpecificDisease||colorectal adenomas||D000236
+10470088||850|853||Modifier||FAP||D011125
+10470088||988|991||Modifier||APC||D011125
+10470088||1233|1236||Modifier||APC||D011125
+10470088||1268|1280||SpecificDisease||FAP desmoids||D018222
+10470088||1317|1322||Modifier||tumor||D009369
+10470088||1450|1456||DiseaseClass||tumors||D009369
+10470088||1515|1521||DiseaseClass||tumors||D009369

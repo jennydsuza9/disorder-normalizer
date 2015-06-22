@@ -1,0 +1,17 @@
+10807385||30|69||CompositeMention||BRCA-linked and sporadic ovarian cancer||OMIM:604370|OMIM:612555|OMIM:613399|D010051
+10807385||85|111||SpecificDisease||hereditary ovarian cancers||D061325
+10807385||242|256||SpecificDisease||ovarian cancer||D010051
+10807385||355|381||SpecificDisease||hereditary ovarian cancers||D061325
+10807385||445|485||SpecificDisease||sporadic (nonhereditary) ovarian cancers||D010051
+10807385||565|580||SpecificDisease||ovarian cancers||D010051
+10807385||648|654||Modifier||cancer||D009369
+10807385||692|698||Modifier||Cancer||D009369
+10807385||1223|1237||SpecificDisease||ovarian cancer||D010051
+10807385||1517|1535||DiseaseClass||Hereditary cancers||D009369
+10807385||2069|2087||DiseaseClass||hereditary cancers||D009369
+10807385||2164|2181||DiseaseClass||stage III cancers||D009369
+10807385||2276|2318||SpecificDisease||BRCA-associated hereditary ovarian cancers||OMIM:604370|OMIM:612555|OMIM:613399
+10807385||2405|2421||DiseaseClass||sporadic cancers||D009369
+10807385||2423|2455||Modifier||advanced-stage hereditary cancer||D009386
+10807385||2485|2505||Modifier||nonhereditary cancer||D009369
+10807385||2546|2588||CompositeMention||BRCA1-linked than for BRCA2-linked cancers||OMIM:604370|OMIM:612555

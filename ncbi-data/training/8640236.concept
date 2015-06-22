@@ -1,0 +1,21 @@
+8640236||36|52||SpecificDisease||breast carcinoma||D001943
+8640236||63|70||DiseaseClass||cancers||D009369
+8640236||109|115||Modifier||tumour||D009369
+8640236||179|185||DiseaseClass||cancer||D009369
+8640236||248|254||DiseaseClass||cancer||D009369
+8640236||262|268||Modifier||tumour||D009369
+8640236||323|339||DiseaseClass||sporadic cancers||D009369
+8640236||456|490||CompositeMention||familial breast and ovarian cancer||D061325
+8640236||536|571||CompositeMention||sporadic breast and ovarian cancers||D001943|D010051
+8640236||665|681||SpecificDisease||breast carcinoma||D001943
+8640236||713|735||Modifier||familial breast cancer||D001943
+8640236||789|802||SpecificDisease||breast cancer||D001943
+8640236||879|885||Modifier||tumour||D009369
+8640236||971|984||SpecificDisease||breast cancer||D001943
+8640236||994|1001||DiseaseClass||tumours||D009369
+8640236||1195|1218||SpecificDisease||sporadic breast cancers||D001943
+8640236||1274|1280||Modifier||tumour||D009369
+8640236||1339|1346||DiseaseClass||cancers||D009369
+8640236||1357|1373||SpecificDisease||breast carcinoma||D001943
+8640236||1418|1435||Modifier||pancreatic tumour||D010190
+8640236||1493|1510||SpecificDisease||pancreatic cancer||D010190

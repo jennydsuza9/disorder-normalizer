@@ -1,0 +1,20 @@
+10556283||50|56||DiseaseClass||cancer||D009369
+10556283||205|210||Modifier||tumor||D009369
+10556283||296|321||DiseaseClass||malignant rhabdoid tumors||D018335
+10556283||372|378||DiseaseClass||tumors||D009369
+10556283||750|765||DiseaseClass||rhabdoid tumors||D018335
+10556283||854|860||DiseaseClass||tumors||D009369
+10556283||917|942||SpecificDisease||choroid plexus carcinomas||D020288
+10556283||980|1002||DiseaseClass||neuroectodermal tumors||D017599
+10556283||1016|1032||SpecificDisease||medulloblastomas||D008527
+10556283||1095|1109||SpecificDisease||breast cancers||D001943
+10556283||1111|1123||SpecificDisease||Wilms tumors||D009396
+10556283||1125|1132||SpecificDisease||gliomas||D005910
+10556283||1134|1145||SpecificDisease||ependymomas||D004806
+10556283||1147|1155||DiseaseClass||sarcomas||D012509
+10556283||1166|1171||Modifier||tumor||D009369
+10556283||1288|1303||DiseaseClass||rhabdoid tumors||D018335
+10556283||1305|1330||SpecificDisease||choroid plexus carcinomas||D020288
+10556283||1347|1363||SpecificDisease||medulloblastomas||D008527
+10556283||1536|1543||DiseaseClass||cancers||D009369
+10556283||1624|1632||Modifier||rhabdoid||D018335

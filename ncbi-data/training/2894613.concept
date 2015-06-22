@@ -1,0 +1,22 @@
+2894613||0|25||SpecificDisease||Von Hippel-Lindau disease||D006623
+2894613||77|97||SpecificDisease||renal cell carcinoma||D002292
+2894613||99|124||SpecificDisease||Von Hippel-Lindau disease||D006623
+2894613||126|129||SpecificDisease||VHL||D006623
+2894613||137|164||DiseaseClass||autosomal dominant disorder||D030342
+2894613||215|221||DiseaseClass||cancer||D009369
+2894613||233|250||SpecificDisease||hemangioblastomas||D018325
+2894613||282|300||SpecificDisease||phaeochromocytomas||D010673
+2894613||302|325||SpecificDisease||pancreatic malignancies||OMIM:260350
+2894613||331|352||SpecificDisease||renal cell carcinomas||D002292
+2894613||354|375||SpecificDisease||Renal cell carcinomas||D002292
+2894613||457|489||CompositeMention||bilateral and multifocal tumours||D009369
+2894613||569|575||Modifier||tumour||D009369
+2894613||606|609||Modifier||VHL||D006623
+2894613||750|753||Modifier||VHL||D006623
+2894613||804|807||Modifier||VHL||D006623
+2894613||917|923||Modifier||tumour||D009369
+2894613||972|978||Modifier||tumour||D009369
+2894613||1028|1070||CompositeMention||inherited and sporadic forms of the cancer||D009369
+2894613||1072|1102||SpecificDisease||Sporadic renal cell carcinomas||D002292
+2894613||1241|1261||SpecificDisease||renal cell carcinoma||D002292
+2894613||1334|1340||Modifier||tumour||D009369

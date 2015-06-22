@@ -1,0 +1,9 @@
+7759075||73|95||SpecificDisease||familial breast cancer||D001943
+7759075||142|155||Modifier||breast cancer||D001943
+7759075||218|239||Modifier||breast/ovarian cancer||D061325
+7759075||365|378||Modifier||breast cancer||D001943
+7759075||428|442||SpecificDisease||ovarian cancer||D010051
+7759075||516|544||CompositeMention||breast and/or ovarian cancer||D001943|D010051
+7759075||618|631||Modifier||breast cancer||D001943
+7759075||731|752||Modifier||breast-ovarian cancer||D061325
+7759075||1068|1096||CompositeMention||breast and/or ovarian cancer||D001943|D010051

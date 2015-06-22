@@ -1,0 +1,13 @@
+8563759||0|16||SpecificDisease||Brca1 deficiency||OMIM:604370
+8563759||34|53||DiseaseClass||embryonic lethality||D020964
+8563759||71|100||DiseaseClass||neuroepithelial abnormalities||D018302
+8563759||106|131||Modifier||breast and ovarian cancer||D061325
+8563759||305|330||CompositeMention||breast and ovarian cancer||D061325
+8563759||370|385||SpecificDisease||ovarian cancers||D010051
+8563759||418|425||DiseaseClass||tumours||D009369
+8563759||511|517||Modifier||tumour||D009369
+8563759||709|715||Modifier||cancer||D009369
+8563759||1039|1054||Modifier||Brca1-deficient||OMIM:604370
+8563759||1160|1172||SpecificDisease||spina bifida||D016135
+8563759||1177|1188||SpecificDisease||anencephaly||D000757
+8563759||1226|1241||Modifier||Brca1-deficient||OMIM:604370

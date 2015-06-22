@@ -1,0 +1,9 @@
+1311721||233|239||DiseaseClass||tumors||D009369
+1311721||405|418||SpecificDisease||neuroblastoma||D009447
+1311721||516|521||Modifier||tumor||D009369
+1311721||576|582||DiseaseClass||tumors||D009369
+1311721||679|685||DiseaseClass||tumors||D009369
+1311721||885|893||Modifier||leukemia||D007938
+1311721||1040|1048||Modifier||leukemia||D007938
+1311721||1105|1119||SpecificDisease||acute leukemia||D007938
+1311721||1344|1352||Modifier||leukemia||D007938

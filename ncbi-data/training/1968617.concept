@@ -1,0 +1,8 @@
+1968617||19|34||SpecificDisease||phenylketonuria||D010661
+1968617||53|68||SpecificDisease||Phenylketonuria||D010661
+1968617||70|73||SpecificDisease||PKU||D010661
+1968617||80|97||DiseaseClass||metabolic disease||D008659
+1968617||218|221||SpecificDisease||PKU||D010661
+1968617||436|439||Modifier||PKU||D010661
+1968617||600|603||Modifier||PKU||D010661
+1968617||1036|1050||DiseaseClass||genetic defect||D030342

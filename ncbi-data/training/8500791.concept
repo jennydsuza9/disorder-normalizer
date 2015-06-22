@@ -1,0 +1,10 @@
+8500791||36|48||SpecificDisease||hemophilia A||D006467
+8500791||58|72||Modifier||von Willebrand||D014842
+8500791||124|150||DiseaseClass||genetic bleeding disorders||D025861
+8500791||152|164||SpecificDisease||hemophilia A||D006467
+8500791||169|191||SpecificDisease||von Willebrand disease||D014842
+8500791||287|301||Modifier||von Willebrand||D014842
+8500791||369|381||Modifier||hemophilia A||D006467
+8500791||1336|1346||Modifier||hemophilia||D006467|D002836
+8500791||1502|1512||SpecificDisease||hemophilia||D006467|D002836
+8500791||1582|1592||SpecificDisease||hemophilia||D006467|D002836

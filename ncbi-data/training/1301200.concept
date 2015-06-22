@@ -1,0 +1,9 @@
+1301200||36|57||DiseaseClass||hyperphenylalaninemia||D010661
+1301200||96|111||DiseaseClass||genetic defects||D030342
+1301200||133|148||SpecificDisease||phenylketonuria||D010661
+1301200||150|153||SpecificDisease||PKU||D010661
+1301200||159|180||DiseaseClass||hyperphenylalaninemia||D010661
+1301200||182|185||DiseaseClass||HPA||D010661
+1301200||583|586||Modifier||PKU||D010661
+1301200||587|590||Modifier||HPA||D010661
+1301200||656|659||DiseaseClass||HPA||D010661

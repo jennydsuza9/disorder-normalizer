@@ -1,0 +1,16 @@
+1317264||4|7||Modifier||APC||D011125
+1317264||30|60||SpecificDisease||familial adenomatous polyposis||D011125
+1317264||82|96||SpecificDisease||gastric cancer||D013274
+1317264||107|121||SpecificDisease||gastric cancer||D013274
+1317264||141|147||DiseaseClass||cancer||D009369
+1317264||240|255||SpecificDisease||gastric cancers||D013274
+1317264||338|364||Modifier||adenomatous polyposis coli||D011125
+1317264||366|369||Modifier||APC||D011125
+1317264||406|437||SpecificDisease||adenomatous polyps in the colon||D018256
+1317264||476|490||SpecificDisease||gastric cancer||D013274
+1317264||531|546||SpecificDisease||gastric cancers||D013274
+1317264||763|766||Modifier||APC||D011125
+1317264||778|784||DiseaseClass||tumors||D009369
+1317264||827|833||DiseaseClass||tumors||D009369
+1317264||1023|1026||Modifier||APC||D011125
+1317264||1104|1119||SpecificDisease||gastric cancers||D013274

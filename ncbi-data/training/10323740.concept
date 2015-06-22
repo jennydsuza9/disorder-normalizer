@@ -1,0 +1,16 @@
+10323740||58|80||SpecificDisease||Van der Woude syndrome||C536528
+10323740||82|104||SpecificDisease||Van der Woude syndrome||C536528
+10323740||106|109||SpecificDisease||VWS||C536528
+10323740||117|144||DiseaseClass||autosomal dominant disorder||D030342
+10323740||156|165||SpecificDisease||cleft lip||D002971
+10323740||173|185||SpecificDisease||cleft palate||D002972
+10323740||190|198||SpecificDisease||lip pits||C536528
+10323740||382|398||CompositeMention||cleft lip/palate||D002971|D002972
+10323740||403|411||SpecificDisease||lip pits||C536528
+10323740||440|460||DiseaseClass||developmental delays||D006130
+10323740||555|558||Modifier||VWS||C536528
+10323740||607|610||SpecificDisease||VWS||C536528
+10323740||933|936||SpecificDisease||VWS||C536528
+10323740||1129|1156||SpecificDisease||popliteal pterygia syndrome||OMIM:119500
+10323740||1176|1215||CompositeMention||syndromic forms of cleft lip and palate||D002971|D002972
+10323740||1234|1267||CompositeMention||nonsyndromic cleft lip and palate||OMIM:119530

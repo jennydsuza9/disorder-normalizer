@@ -1,0 +1,21 @@
+10369860||29|52||DiseaseClass||rearrangement disorders||D002869
+10369860||160|188||DiseaseClass||congenital anomaly disorders||D000013
+10369860||193|209||DiseaseClass||malignant tumors||D018198
+10369860||217|245||DiseaseClass||congenital anomaly disorders||D000013
+10369860||247|263||SpecificDisease||cat-eye syndrome||C535918|OMIM:115470
+10369860||265|280||SpecificDisease||der () syndrome||C535733
+10369860||285|312||SpecificDisease||velo-cardio-facial syndrome||D004062
+10369860||313|330||SpecificDisease||DiGeorge syndrome||D004062
+10369860||332|336||SpecificDisease||VCFS||D004062
+10369860||337|340||SpecificDisease||DGS||D004062
+10369860||438|442||SpecificDisease||VCFS||D004062
+10369860||443|446||SpecificDisease||DGS||D004062
+10369860||660|664||Modifier||VCFS||D004062
+10369860||665|668||Modifier||DGS||D004062
+10369860||719|723||Modifier||VCFS||D004062
+10369860||724|727||Modifier||DGS||D004062
+10369860||1204|1208||Modifier||VCFS||D004062
+10369860||1209|1212||Modifier||DGS||D004062
+10369860||1486|1490||Modifier||VCFS||D004062
+10369860||1491|1494||Modifier||DGS||D004062
+10369860||1675|1703||DiseaseClass||congenital anomaly disorders||D000013

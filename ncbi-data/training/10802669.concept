@@ -1,0 +1,17 @@
+10802669||125|141||DiseaseClass||genetic disorder||D030342
+10802669||142|163||SpecificDisease||ataxia-telangiectasia||D001260
+10802669||165|168||SpecificDisease||A-T||D001260
+10802669||197|219||DiseaseClass||cerebellar dysfunction||D002526
+10802669||267|273||Modifier||cancer||D009369
+10802669||299|302||Modifier||A-T||D001260
+10802669||610|616||Modifier||cancer||D009369
+10802669||635|638||SpecificDisease||A-T||D001260
+10802669||674|700||SpecificDisease||Nijmegen breakage syndrome||D049932
+10802669||702|705||SpecificDisease||NBS||D049932
+10802669||733|736||SpecificDisease||NBS||D049932
+10802669||1051|1054||SpecificDisease||A-T||D001260
+10802669||1059|1062||SpecificDisease||NBS||D049932
+10802669||1265|1268||Modifier||A-T||D001260
+10802669||1621|1624||Modifier||NBS||D049932
+10802669||1841|1844||SpecificDisease||A-T||D001260
+10802669||1849|1852||SpecificDisease||NBS||D049932

@@ -1,0 +1,10 @@
+7611277||41|62||Modifier||breast/ovarian cancer||D061325
+7611277||97|115||SpecificDisease||male breast cancer||D018567
+7611277||244|266||SpecificDisease||familial breast cancer||D001943
+7611277||287|317||CompositeMention||familial breast/ovarian cancer||D061325
+7611277||445|451||Modifier||cancer||D009369
+7611277||586|610||CompositeMention||ovarian or breast cancer||D010051|D001943
+7611277||960|986||CompositeMention||breast and prostate cancer||D001943|D011471
+7611277||1045|1075||DiseaseClass||intra-abdominal carcinomatosis||D000008+D002277
+7611277||1261|1296||CompositeMention||inherited breast and ovarian cancer||D061325
+7611277||1516|1534||SpecificDisease||male breast cancer||D018567

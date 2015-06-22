@@ -1,0 +1,15 @@
+10441329||35|49||SpecificDisease||Wilson disease||D006527
+10441329||67|100||DiseaseClass||intracellular copper accumulation||C535468
+10441329||105|146||DiseaseClass||late-onset hepatic nodular transformation||D020518
+10441329||317|331||SpecificDisease||Wilson disease||D006527
+10441329||335|359||DiseaseClass||copper toxicity disorder||C535468
+10441329||443|482||CompositeMention||hepatic and neuro-logical abnormalities||D008107|D009422
+10441329||637|651||Modifier||Wilson disease||D006527
+10441329||980|996||DiseaseClass||copper deficient||C535468
+10441329||998|1025||DiseaseClass||Morphological abnormalities||D000013
+10441329||1037|1046||SpecificDisease||cirrhosis||D008103
+10441329||1193|1219||DiseaseClass||neurological abnormalities||D009461
+10441329||1224|1242||DiseaseClass||growth retardation||D006130
+10441329||1261|1278||SpecificDisease||copper deficiency||C535468
+10441329||1451|1474||DiseaseClass||cirrhotic liver disease||D008103
+10441329||1490|1504||SpecificDisease||Wilson disease||D006527

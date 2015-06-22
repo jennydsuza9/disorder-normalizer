@@ -1,0 +1,17 @@
+10500204||65|82||SpecificDisease||Friedreich ataxia||D005621
+10500204||84|101||SpecificDisease||Friedreich ataxia||D005621
+10500204||103|107||SpecificDisease||FRDA||D005621
+10500204||133|150||DiseaseClass||inherited ataxias||D013132
+10500204||158|199||DiseaseClass||autosomal recessive degenerative disorder||D019636
+10500204||259|291||CompositeMention||progressive gait and limb ataxia||D020234|D001259
+10500204||293|324||DiseaseClass||absence of deep tendon reflexes||D012021
+10500204||326|352||DiseaseClass||extensor plantar responses||D001405
+10500204||358|394||CompositeMention||loss of position and vibration sense||D053421
+10500204||415|419||SpecificDisease||FRDA||D005621
+10500204||484|488||Modifier||FRDA||D005621
+10500204||537|541||Modifier||FRDA||D005621
+10500204||660|664||Modifier||FRDA||D005621
+10500204||983|987||Modifier||FRDA||D005621
+10500204||1160|1164||Modifier||FRDA||D005621
+10500204||1313|1317||SpecificDisease||FRDA||D005621
+10500204||1339|1361||DiseaseClass||mitochondrial disorder||D028361

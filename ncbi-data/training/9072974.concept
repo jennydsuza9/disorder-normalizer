@@ -1,0 +1,10 @@
+9072974||68|102||CompositeMention||brain, breast, and prostate cancer||D001932|D001943|D011471
+9072974||202|207||Modifier||tumor||D009369
+9072974||293|300||DiseaseClass||cancers||D009369
+9072974||376|388||Modifier||glioblastoma||D005909
+9072974||430|445||Modifier||prostate cancer||D011471
+9072974||471|484||Modifier||breast cancer||D001943
+9072974||530|551||SpecificDisease||primary glioblastomas||D005909
+9072974||770|775||Modifier||tumor||D009369
+9072974||846|851||Modifier||tumor||D009369
+9072974||870|880||DiseaseClass||metastasis||D009362

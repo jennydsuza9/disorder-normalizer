@@ -1,0 +1,14 @@
+10192393||15|26||DiseaseClass||skin tumour||D012878
+10192393||443|449||DiseaseClass||cancer||D009369
+10192393||483|496||DiseaseClass||colon cancers||D003110
+10192393||539|565||SpecificDisease||adenomatous polyposis coli||D011125
+10192393||567|570||SpecificDisease||APC||D011125
+10192393||670|698||CompositeMention||colon and some other cancers||D003110|D009369
+10192393||855|867||DiseaseClass||skin tumours||D012878
+10192393||879|893||SpecificDisease||pilomatricomas||D018296
+10192393||1021|1035||SpecificDisease||pilomatricomas||D018296
+10192393||1210|1221||DiseaseClass||skin tumour||D012878
+10192393||1262|1268||Modifier||tumour||D009369
+10192393||1312|1326||SpecificDisease||pilomatricomas||D018296
+10192393||1385|1392||DiseaseClass||tumours||D009369
+10192393||1615|1622||DiseaseClass||tumours||D009369

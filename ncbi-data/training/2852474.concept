@@ -1,0 +1,17 @@
+2852474||0|34||SpecificDisease||Complex glycerol kinase deficiency||C538138
+2852474||149|183||SpecificDisease||complex glycerol kinase deficiency||C538138
+2852474||185|189||SpecificDisease||CGKD||C538138
+2852474||297|315||DiseaseClass||muscular dystrophy||D009136
+2852474||319|334||DiseaseClass||muscle weakness||D018908
+2852474||336|354||DiseaseClass||mental retardation||D008607
+2852474||356|385||SpecificDisease||congenital adrenal hypoplasia||D000312
+2852474||391|417||DiseaseClass||glycerol kinase deficiency||C538138
+2852474||1222|1226||Modifier||CGKD||C538138
+2852474||1230|1257||Modifier||Duchenne muscular dystrophy||D020388
+2852474||1259|1262||Modifier||DMD||D020388
+2852474||1348|1371||SpecificDisease||gonadotropin deficiency||C535764
+2852474||1373|1376||SpecificDisease||GTD||C535764
+2852474||1500|1503||SpecificDisease||DMD||D020388
+2852474||1547|1576||SpecificDisease||congenital adrenal hypoplasia||D000312
+2852474||1578|1581||SpecificDisease||AHC||D000312
+2852474||1587|1590||SpecificDisease||GTD||C535764

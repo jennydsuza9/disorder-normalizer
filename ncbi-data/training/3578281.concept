@@ -1,0 +1,16 @@
+3578281||0|16||DiseaseClass||Hypopigmentation||D017496
+3578281||24|45||SpecificDisease||Prader-Willi syndrome||D011218
+3578281||47|80||CompositeMention||Cutaneous and ocular pigmentation||D010859
+3578281||123|144||SpecificDisease||Prader-Willi syndrome||D011218
+3578281||146|149||SpecificDisease||PWS||D011218
+3578281||165|181||DiseaseClass||hypopigmentation||D017496
+3578281||368|371||Modifier||PWS||D011218
+3578281||389|402||Modifier||hypopigmented||D017496
+3578281||420|436||DiseaseClass||hypopigmentation||D017496
+3578281||618|634||DiseaseClass||hypopigmentation||D017496
+3578281||744|747||Modifier||PWS||D011218
+3578281||777|793||DiseaseClass||hypopigmentation||D017496
+3578281||850|866||DiseaseClass||hypopigmentation||D017496
+3578281||924|927||SpecificDisease||PWS||D011218
+3578281||941|957||DiseaseClass||hypopigmentation||D017496
+3578281||1048|1064||DiseaseClass||hypopigmentation||D017496

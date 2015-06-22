@@ -1,0 +1,12 @@
+100562||0|58||SpecificDisease||Familial deficiency of the seventh component of complement||OMIM:610102
+100562||85|123||DiseaseClass||bacteremic infections due to Neisseria||D016870
+100562||183|216||SpecificDisease||disseminated gonococcal infection||D004673
+100562||234|258||SpecificDisease||meningococcal meningitis||D008585
+100562||263|272||DiseaseClass||arthritis||D001168
+100562||734|758||Modifier||absence of functional C7||OMIM:610102
+100562||898|920||SpecificDisease||Complete absence of C7||OMIM:610102
+100562||984|1008||SpecificDisease||meningococcal meningitis||D008585
+100562||1013|1022||DiseaseClass||arthritis||D001168
+100562||1196|1209||SpecificDisease||C7 deficiency||OMIM:610102
+100562||1292|1305||SpecificDisease||C7 deficiency||OMIM:610102
+100562||1428|1459||SpecificDisease||bacteremic neisseria infections||D016870

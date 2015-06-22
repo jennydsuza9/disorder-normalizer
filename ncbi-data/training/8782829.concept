@@ -1,0 +1,10 @@
+8782829||20|38||SpecificDisease||endometrial cancer||D016889
+8782829||111|118||DiseaseClass||tumours||D009369
+8782829||190|216||SpecificDisease||microsatellite instability||D053842
+8782829||287|328||Modifier||hereditary nonpolyposis colorectal cancer||D003123
+8782829||330|335||Modifier||HNPCC||D003123
+8782829||352|368||DiseaseClass||sporadic tumours||D009369
+8782829||639|661||SpecificDisease||endometrial carcinomas||D016889
+8782829||857|878||SpecificDisease||endometrial carcinoma||D016889
+8782829||889|910||Modifier||endometrial carcinoma||D016889
+8782829||1601|1608||DiseaseClass||tumours||D009369

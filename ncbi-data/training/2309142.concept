@@ -1,0 +1,7 @@
+2309142||22|25||SpecificDisease||PKU||D010661
+2309142||132|147||SpecificDisease||Phenylketonuria||D010661
+2309142||149|152||SpecificDisease||PKU||D010661
+2309142||159|175||DiseaseClass||genetic disorder||D030342
+2309142||191|238||SpecificDisease||deficiency of hepatic phenylalanine hydroxylase||OMIM:261600
+2309142||403|419||DiseaseClass||molecular lesion||D030342
+2309142||481|484||Modifier||PKU||D010661

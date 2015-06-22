@@ -1,0 +1,21 @@
+10528860||0|45||SpecificDisease||Maternal uniparental disomy for chromosome 14||D024182
+10528860||106|151||SpecificDisease||maternal uniparental disomy for chromosome 14||D024182
+10528860||153|156||SpecificDisease||UPD||D024182
+10528860||248|269||SpecificDisease||Prader-Willi syndrome||D011218
+10528860||271|274||SpecificDisease||PWS||D011218
+10528860||287|300||DiseaseClass||short stature||D006130
+10528860||302|309||SpecificDisease||obesity||D009765
+10528860||316|335||DiseaseClass||developmental delay||D002658
+10528860||337|351||SpecificDisease||cryptorchidism||D003456
+10528860||367|386||DiseaseClass||dysmorphic features||D000013
+10528860||418|449||DiseaseClass||intrauterine growth retardation||D005317
+10528860||558|567||DiseaseClass||hypotonia||D009123
+10528860||678|683||Modifier||obese||D009765
+10528860||721|742||SpecificDisease||middle ear infections||D010033
+10528860||936|957||SpecificDisease||Prader-Willi syndrome||D011218
+10528860||1061|1064||Modifier||PWS||D011218
+10528860||1105|1108||SpecificDisease||UPD||D024182
+10528860||1180|1201||DiseaseClass||maternal heterodisomy||D024182
+10528860||1276|1279||SpecificDisease||UPD||D024182
+10528860||1439|1442||SpecificDisease||UPD||D024182
+10528860||1580|1583||Modifier||PWS||D011218

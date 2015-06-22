@@ -1,0 +1,19 @@
+1351034||29|32||Modifier||APC||D011125
+1351034||44|68||SpecificDisease||adrenocortical carcinoma||D018268
+1351034||89|119||SpecificDisease||familial adenomatous polyposis||D011125
+1351034||121|140||DiseaseClass||Endocrine neoplasms||D004701
+1351034||190|220||SpecificDisease||familial adenomatous polyposis||D011125
+1351034||222|225||SpecificDisease||FAP||D011125
+1351034||231|256||SpecificDisease||adrenocorotical carcinoma||D018268
+1351034||307|310||SpecificDisease||FAP||D011125
+1351034||368|394||Modifier||adenomatous polyposis coli||D011125
+1351034||396|399||Modifier||APC||D011125
+1351034||427|436||DiseaseClass||carcinoma||D002277
+1351034||514|517||Modifier||APC||D011125
+1351034||570|573||Modifier||APC||D011125
+1351034||583|604||SpecificDisease||adrenocortical tumors||D018268
+1351034||670|683||SpecificDisease||desmoid tumor||C535944
+1351034||748|751||Modifier||APC||D011125
+1351034||774|787||DiseaseClass||benign tumors||D009369
+1351034||851|857||DiseaseClass||tumors||D009369
+1351034||927|930||Modifier||FAP||D011125

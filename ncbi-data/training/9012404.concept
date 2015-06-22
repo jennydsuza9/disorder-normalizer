@@ -1,0 +1,11 @@
+9012404||42|60||Modifier||male breast cancer||D018567
+9012404||105|123||Modifier||male breast cancer||D018567
+9012404||200|231||Modifier||inherited breast/ovarian cancer||D061325
+9012404||307|335||CompositeMention||breast and/or ovarian cancer||D061325
+9012404||422|443||CompositeMention||breast/ovarian cancer||D061325
+9012404||562|580||Modifier||male breast cancer||D018567
+9012404||694|712||Modifier||male breast cancer||D018567
+9012404||772|778||DiseaseClass||cancer||D009369
+9012404||797|811||SpecificDisease||ovarian cancer||D010051
+9012404||875|893||SpecificDisease||male breast cancer||D018567
+9012404||919|940||CompositeMention||breast/ovarian cancer||D061325

@@ -1,0 +1,14 @@
+318684||0|58||SpecificDisease||Hereditary deficiency of the third component of complement||OMIM:613779
+318684||75|80||DiseaseClass||fever||D005334
+318684||82|91||DiseaseClass||skin rash||D005076
+318684||97|108||DiseaseClass||arthralgias||D018771
+318684||202|207||DiseaseClass||fever||D005334
+318684||209|218||DiseaseClass||skin rash||D005076
+318684||224|235||DiseaseClass||arthralgias||D018771
+318684||1280|1289||DiseaseClass||skin rash||D005076
+318684||1294|1305||DiseaseClass||arthralgias||D018771
+318684||1618|1643||DiseaseClass||decreased synthesis of C3||OMIM:613779
+318684||1690|1713||SpecificDisease||inherited C3 deficiency||OMIM:613779
+318684||1780|1785||DiseaseClass||fever||D005334
+318684||1787|1796||DiseaseClass||skin rash||D005076
+318684||1802|1812||DiseaseClass||arthralgia||D018771

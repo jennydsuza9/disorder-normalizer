@@ -1,0 +1,12 @@
+10930571||93|115||SpecificDisease||faciogenital dysplasia||C535331
+10930571||117|139||SpecificDisease||Aarskog-Scott syndrome||C535331
+10930571||142|164||SpecificDisease||Aarskog-Scott Syndrome||C535331
+10930571||166|169||SpecificDisease||AAS||C535331
+10930571||177|194||DiseaseClass||X-linked disorder||D040181
+10930571||212|225||DiseaseClass||short stature||D006130
+10930571||239|277||CompositeMention||facial, limb and genital abnormalities||D019465|D017880|D014564
+10930571||319|322||Modifier||AAS||C535331
+10930571||543|546||Modifier||AAS||C535331
+10930571||681|684||SpecificDisease||AAS||C535331
+10930571||884|887||Modifier||AAS||C535331
+10930571||1291|1318||SpecificDisease||X-linked agammaglobulinemia||OMIM:300755

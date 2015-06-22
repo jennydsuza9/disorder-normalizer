@@ -1,0 +1,14 @@
+8644702||28|64||CompositeMention||hereditary breast and ovarian cancer||D061325
+8644702||133|158||Modifier||breast and ovarian cancer||D061325
+8644702||1095|1116||Modifier||breast-ovarian cancer||D061325
+8644702||1162|1176||Modifier||ovarian cancer||D010051
+8644702||1266|1287||Modifier||breast-ovarian cancer||D061325
+8644702||1393|1399||DiseaseClass||tumors||D009369
+8644702||1407|1412||Modifier||tumor||D009369
+8644702||1471|1513||CompositeMention||prostatic, pancreas, skin, and lung cancer||D011471|D010190|D012878|D008175
+8644702||1517|1535||SpecificDisease||malignant melanoma||D008545
+8644702||1540|1557||SpecificDisease||oligodendroglioma||D009837
+8644702||1565|1579||SpecificDisease||carcinosarcoma||D002296
+8644702||1655|1669||SpecificDisease||ovarian cancer||D010051
+8644702||1830|1854||Modifier||hereditary breast cancer||D001943
+8644702||1887|1902||SpecificDisease||ovarian cancers||D010051

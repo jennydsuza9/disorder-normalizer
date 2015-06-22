@@ -1,0 +1,22 @@
+10213492||112|142||SpecificDisease||familial adenomatous polyposis||D011125
+10213492||164|190||Modifier||adenomatous polyposis coli||D011125
+10213492||192|195||Modifier||APC||D011125
+10213492||260|272||SpecificDisease||familial APC||D011125
+10213492||274|277||SpecificDisease||FAP||D011125
+10213492||312|315||Modifier||APC||D011125
+10213492||342|361||SpecificDisease||colorectal adenomas||D003123
+10213492||377|387||DiseaseClass||carcinomas||D009369
+10213492||477|480||Modifier||APC||D011125
+10213492||580|583||Modifier||APC||D011125
+10213492||631|634||Modifier||APC||D011125
+10213492||694|697||Modifier||APC||D011125
+10213492||715|718||Modifier||APC||D011125
+10213492||910|913||Modifier||APC||D011125
+10213492||951|960||SpecificDisease||polyposis||D044483
+10213492||972|975||Modifier||APC||D011125
+10213492||1064|1067||Modifier||APC||D011125
+10213492||1121|1124||Modifier||APC||D011125
+10213492||1164|1184||SpecificDisease||attenuated polyposis||C538265
+10213492||1243|1246||Modifier||APC||D011125
+10213492||1345|1348||Modifier||FAP||D011125
+10213492||1384|1400||Modifier||colorectal tumor||D015179

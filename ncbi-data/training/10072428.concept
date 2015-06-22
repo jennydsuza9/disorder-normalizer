@@ -1,0 +1,16 @@
+10072428||56|79||SpecificDisease||familial gastric cancer||D013274
+10072428||84|101||SpecificDisease||colorectal cancer||D015179
+10072428||206|229||SpecificDisease||familial gastric cancer||D013274
+10072428||231|254||SpecificDisease||Familial gastric cancer||D013274
+10072428||323|337||Modifier||gastric cancer||D013274
+10072428||442|465||Modifier||familial gastric cancer||D013274
+10072428||629|643||SpecificDisease||gastric cancer||D013274
+10072428||740|754||SpecificDisease||gastric cancer||D013274
+10072428||1027|1056||CompositeMention||gastric and colorectal cancer||D015179|D013274
+10072428||1092|1106||SpecificDisease||gastric cancer||D013274
+10072428||1142|1159||SpecificDisease||colorectal cancer||D015179
+10072428||1242|1265||SpecificDisease||familial gastric cancer||D013274
+10072428||1329|1344||SpecificDisease||gastric cancers||D013274
+10072428||1465|1493||DiseaseClass||colorectal and other cancers||D015179|D009369
+10072428||1584|1601||SpecificDisease||colorectal cancer||D015179
+10072428||1684|1714||CompositeMention||gastric and colorectal cancers||D015179|D013274

@@ -1,0 +1,12 @@
+10196379||59|73||Modifier||ovarian cancer||D010051
+10196379||161|174||Modifier||breast cancer||D001943
+10196379||233|247||Modifier||ovarian cancer||D010051
+10196379||371|385||Modifier||ovarian cancer||D010051
+10196379||428|442||Modifier||ovarian cancer||D010051
+10196379||564|578||Modifier||ovarian cancer||D010051
+10196379||796|820||CompositeMention||breast or ovarian cancer||D001943|D010051
+10196379||969|975||DiseaseClass||cancer||D009369
+10196379||1063|1069||Modifier||cancer||D009369
+10196379||1257|1271||SpecificDisease||ovarian cancer||D010051
+10196379||1321|1335||Modifier||ovarian cancer||D010051
+10196379||1459|1473||Modifier||ovarian cancer||D010051

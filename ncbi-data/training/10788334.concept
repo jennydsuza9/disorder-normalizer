@@ -1,0 +1,13 @@
+10788334||60|81||CompositeMention||breast-ovarian cancer||D061325
+10788334||260|266||DiseaseClass||cancer||D009369
+10788334||321|345||CompositeMention||breast or ovarian cancer||D001943|D010051
+10788334||358|364||DiseaseClass||cancer||D009369
+10788334||474|500||CompositeMention||breast and ovarian cancers||D001943|D010051
+10788334||517|532||SpecificDisease||ovarian cancers||D010051
+10788334||559|573||SpecificDisease||breast cancers||D001943
+10788334||982|1001||DiseaseClass||BRCA1 abnormalities||OMIM:604370
+10788334||1044|1058||SpecificDisease||ovarian cancer||D010051
+10788334||1097|1122||CompositeMention||breast and ovarian cancer||D001943|D010051
+10788334||1155|1168||SpecificDisease||breast cancer||D001943
+10788334||1223|1253||SpecificDisease||breast-ovarian cancer syndrome||D061325
+10788334||1448|1467||DiseaseClass||BRCA1 abnormalities||OMIM:604370

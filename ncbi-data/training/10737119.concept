@@ -1,0 +1,20 @@
+10737119||35|52||DiseaseClass||primary dystonias||D020821
+10737119||54|71||DiseaseClass||Primary dystonias||D020821
+10737119||76|94||DiseaseClass||movement disorders||D009069
+10737119||100|108||DiseaseClass||dystonia||D004421
+10737119||535|562||SpecificDisease||idiopathic torsion dystonia||D004422
+10737119||571|585||SpecificDisease||focal dystonia||D020821
+10737119||605|632||SpecificDisease||idiopathic torsion dystonia||D004422
+10737119||659|683||SpecificDisease||dopa-responsive dystonia||C538007
+10737119||707|742||SpecificDisease||paroxysmal dystonic choreoathetosis||C537181
+10737119||848|887||SpecificDisease||X-linked dystonia parkinsonism syndrome||OMIM:314250
+10737119||903|934||DiseaseClass||X-linked sensorineural deafness||OMIM:304500
+10737119||936|944||DiseaseClass||dystonia||D004421
+10737119||950|968||DiseaseClass||mental retardation||D008607
+10737119||1148|1175||SpecificDisease||idiopathic torsion dystonia||D004422
+10737119||1232|1256||SpecificDisease||dopa-responsive dystonia||C538007
+10737119||1268|1290||DiseaseClass||sensorineural deafness||D006319
+10737119||1292|1300||DiseaseClass||dystonia||D004421
+10737119||1306|1324||DiseaseClass||mental retardation||D008607
+10737119||1470|1487||DiseaseClass||primary dystonias||D020821
+10737119||1630|1644||CompositeMention||dystonias 1-12||D020821

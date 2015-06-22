@@ -1,0 +1,11 @@
+2729274||0|20||DiseaseClass||Color vision defects||D003117
+2729274||24|45||SpecificDisease||adrenomyeloneuropathy||D000326
+2729274||72|93||DiseaseClass||abnormal color vision||D003117
+2729274||98|119||SpecificDisease||adrenomyeloneuropathy||D000326
+2729274||121|124||SpecificDisease||AMN||D000326
+2729274||149|152||Modifier||AMN||D000326
+2729274||516|519||Modifier||AMN||D000326
+2729274||602|623||DiseaseClass||abnormal color vision||D003117
+2729274||697|700||SpecificDisease||AMN||D000326
+2729274||721|741||DiseaseClass||adrenoleukodystrophy||D000326
+2729274||866|889||DiseaseClass||contiguous gene defects||D025063

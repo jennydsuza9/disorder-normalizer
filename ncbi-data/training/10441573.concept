@@ -1,0 +1,11 @@
+10441573||59|72||SpecificDisease||breast cancer||D001943
+10441573||77|91||SpecificDisease||ovarian cancer||D010051
+10441573||156|187||CompositeMention||inherited breast-ovarian cancer||D061325
+10441573||444|459||SpecificDisease||ovarian cancers||D010051
+10441573||492|498||Modifier||cancer||D009369
+10441573||655|683||CompositeMention||breast and/or ovarian cancer||D001943|D010051
+10441573||1069|1097||CompositeMention||breast and/or ovarian cancer||D001943|D010051
+10441573||1104|1119||SpecificDisease||ovarian cancers||D010051
+10441573||1125|1139||SpecificDisease||breast cancers||D001943
+10441573||1187|1200||SpecificDisease||breast cancer||D001943
+10441573||1205|1219||SpecificDisease||ovarian cancer||D010051
