@@ -1,0 +1,2 @@
+cancer||carcinoma
+ganglioma||ganglioglioma
