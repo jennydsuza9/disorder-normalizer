@@ -38,9 +38,9 @@ as the \<test-data-dir\> to which the result from normalizing the test mentions 
 In addition, the system performance on normalizing the test disorder mentions will be printed to the terminal.
 
 **Please Note:**  
-    1) In order to run the tool on new data, please ensure that your training, test, and terminology files are in the same format as the data provided in the "ncbi-data" folder.  
-    2) The training data files are used to train the normalizer. However, since disorder-normalizer is not a learning-based system, this folder can be empty.  
-    3) The tool will attempt to normalize the mentions in the test data folder files to the terminology.  
-    4) The TERMINOLOGY file is the ontology/knowledge-base used to which the test data mentions are normalized.
+    * In order to run the tool on new data, please ensure that your training, test, and terminology files are in the same format as the data provided in the "ncbi-data" folder.  
+    * The training data files are used to train the normalizer. However, since disorder-normalizer is not a learning-based system, this folder can be empty.  
+    * The tool will attempt to normalize the mentions in the test data folder files to the terminology.  
+    * The TERMINOLOGY file is the ontology/knowledge-base used to which the test data mentions are normalized.
 
 **Detailed explanation about our normalization system can be found on webpage <a href="http://www.hlt.utdallas.edu/~jld082000/normalization/">here</a>.**
