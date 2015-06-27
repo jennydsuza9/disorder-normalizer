@@ -30,6 +30,13 @@ public class Main {
     public static File test_data_dir;
     MultiPassSieveNormalizer multiPassSieve;
     
+    public static File output_data_dir;
+    
+    /**
+     *
+     * @param args
+     * @throws IOException
+     */
     public Main(String[] args) throws IOException {
         init(args);
     }
@@ -62,6 +69,10 @@ public class Main {
         MultiPassSieveNormalizer.maxSieveLevel = Integer.parseInt(args[3]);
     }
         
+    /**
+     *
+     * @throws IOException
+     */
     public void runMultiPassSieve() throws IOException {
         Sieve.setStandardTerminology();
         Sieve.setTrainingDataTerminology();
@@ -82,10 +93,17 @@ public class Main {
         }   
     }
     
+    /**
+     *
+     * @param args
+     * @throws IOException
+     */
     public static void main(String[] args) throws IOException {
         if (args.length == 4) {
             Main main = new Main(args);
-            Logger.setLogFile(new FileOutputStream("log.txt"));
+            //Logger.setLogFile(new FileOutputStream("log.txt"));
+            output_data_dir = new File(test_data_dir.toString().replace(test_data_dir.getName(), "output"));
+            output_data_dir.mkdirs();            
             main.runMultiPassSieve();
             Evaluation.computeAccuracy();
             Evaluation.printResults();

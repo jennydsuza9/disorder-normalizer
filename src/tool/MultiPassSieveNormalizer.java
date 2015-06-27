@@ -91,7 +91,7 @@ public class MultiPassSieveNormalizer {
         if (!pass(concept, ++currentSieveLevel)) {            
             return;         
         }
-        
+                
         //Sieve 10
         concept.setCui(SimpleNameSieve.apply(concept));
         pass(concept, ++currentSieveLevel);
