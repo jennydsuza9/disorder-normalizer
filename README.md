@@ -5,7 +5,7 @@ The disorder-normalizer tool has been written in Java and is released as free so
 
 You can find more explanation about our normalization system <a href="http://www.hlt.utdallas.edu/~jld082000/normalization/">here</a>.
 
-# Usage:
+## Usage:
 
 1) If using the source code available in "src" folder. First, copy the "resources" folder into the "src" folder, then run the program as below.
 
